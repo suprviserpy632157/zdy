@@ -1,0 +1,4 @@
+xiaozhang,20,100
+xiaoli,18,98
+xiaowei,18,98
+laowei,35,60
